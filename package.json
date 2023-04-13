@@ -1,0 +1,30 @@
+{
+  "name": "gudangmovie",
+  "version": "1.0.0",
+  "description": "Website Film",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johansyahdiaz/GudangMovie.git"
+  },
+  "author": "Johansyah Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johansyahdiaz/GudangMovie/issues"
+  },
+  "homepage": "https://github.com/johansyahdiaz/GudangMovie#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.2",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "@babel/core": "^7.18.13",
+    "@babel/preset-env": "^7.18.10",
+    "babel-loader": "^8.2.5",
+    "webpack-dev-server": "^4.10.0"
+  }
+}
